@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=3v401&layout=pie&hide=jupyter%20notebook)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=3v401&layout=pie&hide=jupyter%20notebook,cuda,c%2B%2B)
 
 
 <!--
