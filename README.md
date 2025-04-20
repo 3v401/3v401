@@ -62,9 +62,9 @@
 [R-url]: https://www.r-project.org/
 [lua-shield]: https://img.shields.io/badge/lua-%232C2D72.svg?style=flat-square&logo=lua&logoColor=white
 [lua-url]: https://www.lua.org/
-[terraform-shield]: https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white
+[terraform-shield]: https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white
 [terraform-url]: https://www.terraform.io/
-[aws-shield]: https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white
+[aws-shield]: https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white
 [aws-url]: https://aws.amazon.com/
 <!-- markdown languages -->
 [html-shield]: https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white
