@@ -6,6 +6,7 @@
 [![cpp][cpp-shield]][cpp-url]
 [![bash][bash-shield]][bash-url]
 [![jupyter][jupyter-shield]][jupyter-url]
+[![terraform][terraform-shield]][terraform-url]
 [![node][node-shield]][node-url]
 [![sql][sql-shield]][sql-url]
 [![R][R-shield]][R-url]
@@ -60,6 +61,8 @@
 [R-url]: https://www.r-project.org/
 [lua-shield]: https://img.shields.io/badge/lua-%232C2D72.svg?style=flat-square&logo=lua&logoColor=white
 [lua-url]: https://www.lua.org/
+[terraform-shield]: https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white
+[terraform-url]: https://www.terraform.io/
 <!-- markdown languages -->
 [html-shield]: https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white
 [html-url]: https://www.html.it/
