@@ -6,6 +6,7 @@
 [![cpp][cpp-shield]][cpp-url]
 [![bash][bash-shield]][bash-url]
 [![jupyter][jupyter-shield]][jupyter-url]
+[![aws][aws-shield]][aws-url]
 [![terraform][terraform-shield]][terraform-url]
 [![node][node-shield]][node-url]
 [![sql][sql-shield]][sql-url]
@@ -63,6 +64,8 @@
 [lua-url]: https://www.lua.org/
 [terraform-shield]: https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white
 [terraform-url]: https://www.terraform.io/
+[aws-shield]: https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white
+[aws-url]: https://aws.amazon.com/
 <!-- markdown languages -->
 [html-shield]: https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white
 [html-url]: https://www.html.it/
