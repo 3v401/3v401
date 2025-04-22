@@ -28,7 +28,7 @@
 - ⚡ Personal Interests: Playing intstruments, reading books, coding, mathematics, exercising.
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=3v401&layout=pie&hide=jupyter%20notebook,cuda,c%2B%2B)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=3v401&layout=pie&hide=jupyter%20notebook,cuda,c%2B%2B,javascript,assembly,html,css,less)
 
 
 
