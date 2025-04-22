@@ -5,9 +5,15 @@
 [![c][c-shield]][c-url]
 [![cpp][cpp-shield]][cpp-url]
 [![bash][bash-shield]][bash-url]
-[![jupyter][jupyter-shield]][jupyter-url]
+[![docker][docker-shield]][docker-url]
+[![kubernetes][kubernetes-shield]][kubernetes-url]
 [![aws][aws-shield]][aws-url]
 [![terraform][terraform-shield]][terraform-url]
+[![gitlab][gitlab-shield]][gitlab-url]
+[![jenkins][jenkins-shield]][jenkins-url]
+[![ansible][ansible-shield]][ansible-url]
+[![mongodb][mongodb-shield]][mongodb-url]
+[![jupyter][jupyter-shield]][jupyter-url]
 [![node][node-shield]][node-url]
 [![sql][sql-shield]][sql-url]
 [![R][R-shield]][R-url]
@@ -66,6 +72,20 @@
 [terraform-url]: https://www.terraform.io/
 [aws-shield]: https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white
 [aws-url]: https://aws.amazon.com/
+[docker-shield]: https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white
+[docker-url]: https://www.docker.com/
+[kubernetes-shield]: https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white
+[kubernetes-url]: https://kubernetes.io/
+[yaml-shield]: https://img.shields.io/badge/YAML-CB171E?style=flat-square&logo=yaml&logoColor=white
+[yaml-url]: https://yaml.org/
+[mongodb-shield]: https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white
+[mongodb-url]: https://www.mongodb.com/
+[gitlab-shield]: https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white
+[gitlab-url]: https://gitlab.com/
+[jenkins-shield]: https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white
+[jenkins-url]: https://www.jenkins.io/
+[ansible-shield]: https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white
+[ansible-url]: https://www.ansible.com/
 <!-- markdown languages -->
 [html-shield]: https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white
 [html-url]: https://www.html.it/
